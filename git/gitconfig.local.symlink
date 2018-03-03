@@ -1,0 +1,5 @@
+[user]
+        name = Sallar Kaboli
+        email = sallar.kaboli@gmail.com
+[credential]
+        helper = osxkeychain
