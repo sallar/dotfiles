@@ -12,6 +12,7 @@ brew 'wget', args: ['with-iri']
 brew 'node'
 brew 'zsh'
 brew 'zsh-autosuggestions'
+brew 'tree'
 
 cask 'google-chrome'
 cask 'slack'
