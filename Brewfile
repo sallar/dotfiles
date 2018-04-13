@@ -13,6 +13,7 @@ brew 'node'
 brew 'zsh'
 brew 'zsh-autosuggestions'
 brew 'tree'
+brew 'rpm'
 
 cask 'google-chrome'
 cask 'slack'
