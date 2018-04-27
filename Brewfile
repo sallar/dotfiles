@@ -14,7 +14,7 @@ brew 'zsh'
 brew 'zsh-autosuggestions'
 brew 'tree'
 brew 'rpm'
-brew 'rust'
+brew 'rustup'
 
 cask 'google-chrome'
 cask 'slack'
